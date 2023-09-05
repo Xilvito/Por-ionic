@@ -1,5 +1,5 @@
 {
-  "name": "Asistencia",
+  "name": "app-diario",
   "integrations": {
     "capacitor": {}
   },
